@@ -1,5 +1,5 @@
 Niklas
-- 👀 I’m interested in Game development
-- 👀 I’m interested in Web development
-Reach me on Discord Niki28#2821
+- 👀 I’m interested in Linux
+- 👀 I’m interested in 3D Modeling\n
+Reach me on Discord @niki28
 
