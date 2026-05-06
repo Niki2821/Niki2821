@@ -1,3 +1,3 @@
 Niklas
 - linux, server stuff, small projects
-dc: @niki28
+- dc: @niki28
